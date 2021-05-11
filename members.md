@@ -37,7 +37,8 @@ The group is made up of a number of people who work on a few themes.
 
 
 ## Alumni
-* Henry Wandera [UP - MIT Big Data Science][ML, Soc] - 2021
+* Henry Wandera [UP - MIT Big Data Science][ML, Soc] - 2021. 
+    * [Dissertation Link](./_posts/2021-03-30-wandera-dissseration.md)
 * Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM] - 2021
 * Chatherine Gitau [AMMI][NLP] - 2021
 * Salomon Kabenamualu [AMMI][NLP] - 2021
@@ -57,3 +58,4 @@ The group is made up of a number of people who work on a few themes.
 * Jessica Nemasisi [Hons][UniVen][ML] - 2017
 * Tshepisho Sefara [NRF-CSIR, 2018][ML, NLP, Soc] - 2018
 * Niciah Hlungwane [NRF-CSIR, 2018][NLP] - 2018
+
